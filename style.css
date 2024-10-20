@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-image: url('/Users/gyungmin/Desktop/festical/sart.jpg');
+    background-image: url('images/sart.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -16,6 +16,7 @@ header {
     justify-content: center;
     align-items: center;
 }
+
 
 header h1 {
     font-size: 3rem;
