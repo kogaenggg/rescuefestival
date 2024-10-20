@@ -6,15 +6,22 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-image: url('/Users/gyungmin/Desktop/festical/sart.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
     color: white;
-    padding: 1rem 0;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header h1 {
-    margin: 0;
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
 
 nav ul {
     list-style-type: none;
